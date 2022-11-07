@@ -1,12 +1,8 @@
 #### TEMA (Issue template)
 
+**TAGS**
 
----
-Tema: "\U0001F680 Issue template"
-Tags: 'i: Issue, i: Template'
-assignees: ''
-
----
+Issue; Template
 
 ** O que? **
 … Explicar brevemente o assunto (Template de issue para facilitar a vida)
@@ -18,5 +14,7 @@ assignees: ''
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
+
+** Assignments **
 
 ** Comentários **
